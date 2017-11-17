@@ -1,0 +1,95 @@
+[ Browser ]   V8 团队 Blog 对性能优化分析组件 CodeStubAssembler 的介绍：
+https://v8project.blogspot.com/2017/11/csa.html
+
+* [ Industry News ]    GitHub 社区对已经启用依赖图谱（Dependency Graph）功能的用户会推送已知漏洞预警： 
+https://github.com/blog/2470-introducing-security-alerts-on-github
+
+* [ Linux ]  Linux Kernel 3.11 < 4.8 0 SO_SNDBUFFORCE SO_RCVBUFFORCE 本地提权漏洞利用 (CVE-2016-9793)： 
+https://cxsecurity.com/issue/WLB-2017050084
+
+* [ macOS ]   macOS 操作系统桌面搜索引擎 Spotlight 因为接受内核的文件系统通知事件而暴露的攻击面分析： 
+https://blog.doyensec.com/2017/11/15/osx-spotlight.html
+
+* [ Others ]  PHP 从本地文件包含漏洞到远程代码执行漏洞的利用方式介绍：
+https://rawsec.ml/en/local-file-inclusion-remote-code-execution-vulnerability/
+
+* [ Tools ]  SpookFlare - Meterpreter 加载器生成工具，可绕过客户端和网络端的防御：
+https://github.com/hlldz/SpookFlare
+
+* [ Web Security ]  国外媒体 Freedom to Tinker 报道，某些网站使用的第三方脚本竟然包含[会话重放]功能，这些脚本可以收集用户的个人隐私数据，包括击键信息、鼠标移动数据：
+https://freedom-to-tinker.com/2017/11/15/no-boundaries-exfiltration-of-personal-data-by-session-replay-scripts/
+
+* [ WirelessSecurity ]    研究员 ScottyBauer 在其 GitHub Repo Android_Kernel_CVE_POCs 中新添加了几个远程 WiFi 漏洞的 PoC： 
+https://github.com/ScottyBauer/Android_Kernel_CVE_POCs/tree/master/wifi 
+
+* [ Industry News ]  . IBM、PCH、GCA 联合发布 Quad9 带隐私和安全防护黑名单的免费 DNS 服务（9.9.9.9 ）： 
+https://www.globalcyberalliance.org/ibm-packet-clearing-house-global-cyber-alliance-collaborate-protect-businesses-consumers-internet-threats.html
+
+* [ Fuzzing ]  水文：对漏洞挖掘的一点看法： 
+https://weibo.com/ttarticle/p/show?id=2309404174670051067824
+
+* [ APT ]  一个利用CVE-2017-11292的APT样本技术分析（二）： 
+http://www.freebuf.com/articles/network/153813.html
+
+* [ Windows ]  Pwn2Own 2017 Windows 内核漏洞 PoC：https://github.com/progmboy/kernel_vul_poc/tree/master/windows/cursor_poc
+
+* [ Industry News ]   Mozilla 向 CA 组织发送了一封关于 Mozilla Root Store Policy 的交流请愿：
+https://blog.mozilla.org/security/2017/11/16/november-2017-ca-communication/
+
+* [ Tools ]  CIA Hive测试指南——源代码获取与简要分析： 
+https://3gstudent.github.io/3gstudent.github.io/CIA-Hive%E6%B5%8B%E8%AF%95%E6%8C%87%E5%8D%97-%E6%BA%90%E4%BB%A3%E7%A0%81%E8%8E%B7%E5%8F%96%E4%B8%8E%E7%AE%80%E8%A6%81%E5%88%86%E6%9E%90/
+
+* [ Popular Software ]  CouchDB漏洞(CVE–2017–12635, CVE–2017–12636)分析： 
+http://bobao.360.cn/learning/detail/4716.html
+
+* [ Vulnerability ]  wget 缓冲区溢出漏洞分析（CVE-2017-13089）： 
+https://paper.seebug.org/453/
+
+* [ Malware ]  潜伏的BadMedia木马家族，用户需谨慎下载破解应用： 
+http://www.freebuf.com/articles/network/154029.html
+
+* [ Malware ]  隐写术，恶意软件的避风港： 
+https://securityintelligence.com/steganography-a-safe-haven-for-malware/
+
+* [ Tools ]  Droidefense - 一款高级 Android 恶意软件分析框架： 
+https://github.com/droidefense/engine
+
+* [ SecurityReport ]  2017 State of Open Source Security Report： 
+https://snyk.io/blog/launching-state-of-oss-security/
+
+* [ Pentest ]  在横向渗透中利用 Outlook CreateObject 及 DotNetToJScript： 
+https://posts.specterops.io/lateral-movement-using-outlooks-createobject-method-and-dotnettojscript-a88a81df27eb
+
+* [ Tools ]  禁止当前 Powershell Session 中的 ETW 事件追踪模块： 
+https://gist.github.com/tandasat/e595c77c52e13aaee60e1e8b65d2ba32
+
+* [ SecurityProduct ]  某防火墙远程命令执行： 
+http://bobao.360.cn/learning/detail/4709.html
+
+* [ Others ]  1毛钱可以买100个网络账户？揭秘帐号被盗后的黑产攻防战： 
+https://mp.weixin.qq.com/s/9305SCrCpvcearGkuyecAg
+
+* [ Browser ]  CVE-2016-7202：Overflow in Array.reverse： 
+https://mp.weixin.qq.com/s/lHWzYgIzB0p0biUYwuqWEg
+
+* [ Popular Software ]  POMP: 硬件辅助的程序崩溃分析： 
+https://mp.weixin.qq.com/s/RKLbKMvIBZ4gsNrBX1R2Mg
+
+* [ Vulnerability ]  MalwareBenchmark又爆0-day涉及yaml语言：CVE-2017-16615： 
+https://mp.weixin.qq.com/s/ecEB-SCowg8dINrpwt7X9w
+
+* [ Industry News ]  快消时尚品牌 FOREVER 21 顾客支付卡信息恐遭泄漏： https://www.prnewswire.com/news-releases/notice-of-payment-card-security-incident-300555878.html
+
+* [ Vulnerability ]   Sitefinity CMS version 10.1 中发现多个漏洞： 
+https://www.sec-consult.com/en/blog/advisories/broken-access-control-linq-injection-in-progress-sitefinity/index.html
+
+* [ Windows ]  RPCForge - Windows RPC Python fuzzer： 
+https://github.com/sogeti-esec-lab/RPCForge
+
+* [ MalwareAnalysis ]  Android Malware Detection using Markov Chain Model of Application Behaviors in Requesting System Services： 
+https://arxiv.org/pdf/1711.05731.pdf
+
+* [ Industry News ]  Why I walked away from $30,000 of DJI bounty money ： 
+http://www.digitalmunition.com/WhyIWalkedFrom3k.pdf
+
+* [ Industry News ]  亚马逊Amazon Key服务遭破解 小偷任意进出房间：http://www.cnbeta.com/articles/tech/671083.htm
